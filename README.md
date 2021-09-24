@@ -5,7 +5,14 @@ The purpose of this new analysis is to revamp the PlanMyTrip app so that a weath
 
 ## Results
 
+
+![PyBer_Summary_df](/Vacation_Search/WeatherPy_vacation_map.png)
+
+
+
 ![PyBer_Summary_df](/Vacation_Itinerary/WeatherPy_travel_map.PNG)
+
+
 
 ![PyBer_Summary_df_line_Graph](/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
