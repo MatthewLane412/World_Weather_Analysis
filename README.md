@@ -6,7 +6,7 @@ The purpose of this new analysis is to revamp the PlanMyTrip app so that a weath
 ## Results
  Of the random 2000 latitudes and longitudes generated, I was able to pull down 689 locations with weather information. Of the 689 locations, I was able to pull 132 hotels within the parameters of max temp 90 and min max temp 80. 
 
-![PyBer_Summary_df](/Vacation_Search/WeatherPy_vacation_map.png)
+![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_balanced_accuracy_score.PNG)
 
 For this trip, I selected 4 locations close to each other and mapped out paths to get there by driving.
 
